@@ -10,7 +10,6 @@
   - Ironman 3
   - Captain America
   - Venom 2
-    
   `code`
   ---
   [title](https://www.example.com)
